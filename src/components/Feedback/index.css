@@ -1,0 +1,96 @@
+.container {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.heading {
+  color: #2e3e4e;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 800;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.card1 {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  border-radius: 15px;
+  border-width: 0px;
+  background-color: #ffffff;
+}
+
+.card2 {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  border-radius: 15px;
+  border-width: 0px;
+  background-color: #ffffff;
+  display: none;
+}
+.emoji-container {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+.emoji-image {
+  height: 80px;
+  width: 80px;
+}
+.emoji-name-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.name {
+  margin-top: -10px;
+}
+
+.card3 {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  border-radius: 15px;
+  border-width: 0px;
+  background-color: #ffffff;
+  display: none;
+}
+
+.card4 {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  border-radius: 15px;
+  border-width: 0px;
+  background-color: #ffffff;
+}
+.love-emoji {
+  height: 80px;
+  width: 90px;
+}
+.thank-you-heading {
+  color: #2e3e4e;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 800;
+  margin-bottom: 20px;
+  text-align: center;
+}
